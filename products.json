@@ -1,0 +1,18 @@
+{
+  "hardware": [
+    { "name": "Hammer", "price": 8.99, "image": "https://cdn-icons-png.flaticon.com/512/2729/2729022.png" },
+    { "name": "Screwdriver", "price": 5.49, "image": "https://cdn-icons-png.flaticon.com/512/2729/2729021.png" }
+  ],
+  "sanitary": [
+    { "name": "Shower Head", "price": 12.99, "image": "https://cdn-icons-png.flaticon.com/512/1085/1085577.png" },
+    { "name": "Sink Tap", "price": 15.99, "image": "https://cdn-icons-png.flaticon.com/512/1079/1079936.png" }
+  ],
+  "electric": [
+    { "name": "Light Bulb", "price": 3.99, "image": "images/electric/bulb.jfif" },
+    { "name": "Extension Cord", "price": 7.49, "image": "https://cdn-icons-png.flaticon.com/512/4153/4153987.png" }
+  ],
+  "food": [
+    { "name": "Juice Bottle", "price": 2.99, "image": "https://cdn-icons-png.flaticon.com/512/415/415733.png" },
+    { "name": "Snack Pack", "price": 1.99, "image": "https://cdn-icons-png.flaticon.com/512/1535/1535791.png" }
+  ]
+}
