@@ -1,0 +1,49 @@
+{
+  "Electric": [
+    {
+      "name": "Bulb",
+      "price": 10,
+      "img": "images/electric/bulb.jfif"
+    },
+    {
+      "name": "Extension Cord",
+      "price": 30,
+      "img": "images/electric/extension cord.jfif"
+    },
+    {
+      "name": "Power Factor",
+      "price": 900,
+      "img": "images/electric/power factor.png"
+    },
+    {
+      "name": "Whatsapp Image 2025-05-29 At 6.58.46 Pm",
+      "price": 900,
+      "img": "images/electric/WhatsApp Image 2025-05-29 at 6.58.46 PM.jpeg"
+    }
+  ],
+  "Food": [],
+  "Hardware": [
+    {
+      "name": "Project Pics1",
+      "price": 4,
+      "img": "images/hardware/Project Pics1.png"
+    }
+  ],
+  "Sanitary": [
+    {
+      "name": "Shower",
+      "price": 60,
+      "img": "images/sanitary/shower.jfif"
+    },
+    {
+      "name": "Sign",
+      "price": 80,
+      "img": "images/sanitary/Sign.jpg"
+    },
+    {
+      "name": "Sink Tap",
+      "price": 90,
+      "img": "images/sanitary/sink tap.jfif"
+    }
+  ]
+}
